@@ -2,7 +2,7 @@ print("It is running. Go to your boot and press /start.")
 import telebot
 import instaloader
 
-TOKEN = "8527291741:AAF_uP2XRwxLuzm4STAMs4xFIM2Z2pvB-UY"
+TOKEN = "Your_Bot_token_Here"
 
 bot = telebot.TeleBot(TOKEN)
 
